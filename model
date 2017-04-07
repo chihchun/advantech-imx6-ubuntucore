@@ -1,0 +1,21 @@
+type: model
+authority-id: jhL4LAhRDtcbAJtl3gRg8nBBjvn7VzYv
+series: 16
+brand-id: jhL4LAhRDtcbAJtl3gRg8nBBjvn7VzYv
+model: advantech-imx6
+architecture: armhf
+gadget: advantech-imx6-gadget
+kernel: advantech-imx6
+timestamp: 2017-04-07T10:00:00+08:00
+sign-key-sha3-384: wwpKMoQYMqdMu3ZDYXh8TRHso9xDfCmF2dqDJy_LXUQ5YZshZjPubV6p62VtVWiZ
+
+AcLBXAQAAQoABgUCWOe2SgAKCRBneuSGP8km+b9AD/sFBqE12uU5s3Rg0S1RCIS7Hq01+k6EQ3UT
+yqloHlebRk9V5QWz+jOWC50yjUAp6moKzohvJhNWeIB8pSDyHtShXjhIULeyP1wL7Mm7Ky3yhGcS
+cLOENKswgbFij4i/UQcr2ICVv4NZZDDApJAv6evmxmV4c8IOAtp50GyDCC5oXGdy1H8pk2UJlQ0e
+p73nT5cgS4q9RBpkl/zltrQ3YAdxylrMZdTghE79+84REO4uJHdxBxbXvwLQ/CexfvX9D1DlOjHW
+QUkE1uS2PskvB4bkE/cfMdRLOu6ngssayDWvlEHN7Vb5jyWNi1cjxkfuZyTdtWALpD3XLYL9Dv7m
+RWIu8/z8wp2tAL4ofC27LWsb3DCg/DyfDfqmtKp42OnbTnALmmo3gSTLa+p9yvzl/HgP/DIbwoqV
+3vBrcz8VYreXPi9uV6bZy58pBp9Kxwg4GX3Kmk8eEZEVwyV5J1W2T12eQavjS4bTqv6ttmF0eAIv
+vCYAm2sYPNW+7r5it3U1LNxsnQGIJn1EIWhKF0hlrfwq1Nbq16iWEFaHFhz2iM0V68qmg9yA3TBx
+rV7/IfWyi/1Hu1ifcd2/q+tsJGrfW4utHbbPmOLbYc9mQV1Gv+Y22fXFfLafCIk0I8T8AP78oXwq
+/jRJyUSnc+Y2pJaOyD3+YC5JT1Ex3baWgDSQTadQlg==
