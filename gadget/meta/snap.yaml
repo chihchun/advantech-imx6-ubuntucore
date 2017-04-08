@@ -1,0 +1,8 @@
+name: advantech-imx6-gadget
+version: 16.04-1
+summary: Advantech i.MX6
+description: |
+ This package is for Advantech ROM-DK7421 and ROM-DK3420
+type: gadget
+architectures:
+  - armhf
