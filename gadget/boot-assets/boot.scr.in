@@ -1,5 +1,5 @@
 echo "Load uboot env for snappy"
-load mmc ${mmcdev}:${mmcpart} ${loadaddr} /uboot.conf;
+load mmc ${mmcdev}:${mmcpart} ${loadaddr} /uboot.env;
 env import -t -r ${loadaddr} ${filesize};
 env print;
 run bootcmd;
